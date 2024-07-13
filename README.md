@@ -1,5 +1,5 @@
 # Dashboard para um empresa de petshop
-O repositório foi criado para apresentar um Dashboard criado para um cliente que é dona de um petshop. 
+O repositório apresenta as métricas que uma cliente que é dona de um petshop solicitou. 
 
 ## Métricas visualizadas:
 - Faturamento (total).
