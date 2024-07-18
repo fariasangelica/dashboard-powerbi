@@ -1,5 +1,5 @@
 # Dashboard para um empresa de petshop
-O repositório é dedicado ao levantamento das métricas de uma petshop.
+O repositório é dedicado ao levantamento das métricas de um petshop.
 
 ## Métricas visualizadas:
 - Faturamento (total).
